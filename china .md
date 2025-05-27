@@ -19,3 +19,10 @@ Cerveza china.
 
 Bebidas a base de ciruela.
 
+
+## Consejos
+Cocina a fuego alto para salteados.
+
+Usa salsa de soya, jengibre y ajo como base de sabor.
+
+
