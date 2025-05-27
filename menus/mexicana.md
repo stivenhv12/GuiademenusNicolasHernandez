@@ -17,3 +17,8 @@ Agua de horchata.
 Cerveza mexicana (ej. Corona, Modelo).
 
 Tequila o mezcal.
+
+## Consejos
+Ajusta el picante según el gusto.
+
+Sirve con totopos y guacamole como entrada.
