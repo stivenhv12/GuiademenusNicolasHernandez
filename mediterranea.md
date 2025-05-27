@@ -12,3 +12,11 @@ paella
 mosaouka
 
 Ensalada Griega
+
+## Bebidas recomendadas
+
+agua 
+
+cafe
+
+vino tinto 
