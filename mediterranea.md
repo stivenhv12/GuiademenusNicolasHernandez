@@ -20,3 +20,9 @@ agua
 cafe
 
 vino tinto 
+
+## Recomendaciones
+
+Usa aceite de oliva extra virgen.
+
+Incluye frutos secos y semillas.
