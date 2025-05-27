@@ -16,3 +16,9 @@ Lassi (natural o de mango).
 Té chai.
 
 Agua con limón y menta.
+
+## Consejos
+Usa garam masala y cúrcuma para sabor auténtico.
+
+Acompaña con naan o arroz basmati.
+
