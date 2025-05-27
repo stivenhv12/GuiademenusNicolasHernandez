@@ -11,3 +11,11 @@ Pollo a la Naranja: Crujiente y dulce con salsa cítrica.
 
 Dim Sum: Pequeñas porciones al vapor o fritas con rellenos variados.
 
+
+## Bebidas Recomendadas
+Té jazmín.
+
+Cerveza china.
+
+Bebidas a base de ciruela.
+
