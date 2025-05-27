@@ -16,3 +16,8 @@ Vino tinto robusto.
 Cerveza artesanal.
 
 Agua con hielo
+
+## Consejos
+Deja reposar la carne tras la cocción.
+
+Usa marinadas para realzar el sabor.
