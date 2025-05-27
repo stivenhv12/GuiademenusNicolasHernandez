@@ -10,5 +10,12 @@ Ramen: Sopa de fideos con caldo, cerdo, huevo y algas.
 
 Tempura: Verduras o mariscos fritos en masa ligera.
 
+## Bebidas Recomendadas
+Té verde.
+
+Sake.
+
+Agua mineral.
+
 
 
