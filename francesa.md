@@ -20,3 +20,7 @@ champan
 cafe
  
 absenta 
+
+## Consejos
+
+Para deleitarte con la cocina francesa, empieza por explorar mercados locales para descubrir ingredientes frescos y regionales. Aprende técnicas como blanquear, glasear y grillado, que son fundamentales en la cocina francesa. ¡No olvides la paciencia, pues la cocina francesa requiere cocciones lentas para desarrollar sabores! 
