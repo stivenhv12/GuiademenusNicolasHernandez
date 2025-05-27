@@ -17,5 +17,11 @@ Sake.
 
 Agua mineral.
 
+## Consejos
+Usa arroz especial para sushi.
+
+Presenta los platos con estética y equilibrio.
+
+
 
 
