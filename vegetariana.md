@@ -10,3 +10,13 @@ Curry de Garbanzos: Estofado con leche de coco y especias.
 
 Hamburguesa de Lentejas: Servida con pan integral y vegetales frescos.
 
+
+## Bebidas Recomendadas
+Jugo natural.
+
+Agua con pepino.
+
+Kombucha.
+
+
+
