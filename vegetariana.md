@@ -18,5 +18,9 @@ Agua con pepino.
 
 Kombucha.
 
+## Consejos
+Usa proteínas vegetales como tofu o legumbres.
+
+Combina colores y texturas para variedad
 
 
