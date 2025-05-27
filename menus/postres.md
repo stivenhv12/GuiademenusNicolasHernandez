@@ -18,3 +18,8 @@ Café.
 Vino dulce o licor.
 
 Chocolate caliente.
+
+## Consejos
+Sirve los postres fríos o a temperatura ambiente.
+
+Decora con frutas, menta o azúcar glas.
