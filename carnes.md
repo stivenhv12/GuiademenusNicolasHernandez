@@ -10,3 +10,9 @@ Filete a la Parrilla: Acompañado de papas y ensalada.
 
 Cordero al Romero: Cocido lentamente con hierbas.
 
+## Bebidas Recomendadas
+Vino tinto robusto.
+
+Cerveza artesanal.
+
+Agua con hielo
